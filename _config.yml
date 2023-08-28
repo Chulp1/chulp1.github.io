@@ -1,0 +1,22 @@
+title: Chulp1 gallery
+author: Chulp1
+email: chulpusa@gmail.com
+description: >-
+  something
+
+social:
+  twitter: something
+  facebook: something
+  instagram: something
+  github: something
+  linkedin: something
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+collections:
+  images:
+    output: true
